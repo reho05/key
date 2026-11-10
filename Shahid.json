@@ -1,9 +1,8 @@
 [
   {
-    "id": "a8a13242b503100c",
+    "Device Id": "59d27462df7d4ff8",
     "username": "admin",
-    "Key": "123456",
-    "allowOffline": true,
-    "expiresAt": "2099-12-31"
+    "password": "123456",
+    "expiry": "2099-12-31"
   }
 ]
